@@ -1,0 +1,17 @@
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\bin\Debug\netstandard2.0\AppAgendaSoccer.deps.json
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\bin\Debug\netstandard2.0\AppAgendaSoccer.dll
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\bin\Debug\netstandard2.0\AppAgendaSoccer.pdb
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.csproj.AssemblyReference.cache
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.AssemblyInfoInputs.cache
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.AssemblyInfo.cs
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.csproj.CoreCompileInputs.cache
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.dll
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\refint\AppAgendaSoccer.dll
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\AppAgendaSoccer.pdb
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\ref\AppAgendaSoccer.dll
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+C:\Users\0200832011015\Desktop\AppAgendaSoccer\AppAgendaSoccer\AppAgendaSoccer\obj\Debug\netstandard2.0\View\Home.xaml.g.cs

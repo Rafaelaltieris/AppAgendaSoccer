@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAgendaSoccer.View.Login"
+             BackgroundColor="#5CC6BA">
+
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="#444" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="logo" />
+            <Label Text="Agenda Soccer" FontSize="Title" Margin="50"
+                           HorizontalTextAlignment="Center" TextColor="White"/>
+            <Frame CornerRadius="20"
+                   Margin="10,0,10,0"
+                   VerticalOptions="CenterAndExpand"
+                   Padding="10"
+                   BackgroundColor="#F1F5F4">
+                <StackLayout>
+                    <Label Text="Email:" TextColor="#5CC6BA" />
+                    <Entry x:Name="txt_email" Placeholder="Email"/>
+                </StackLayout>
+            </Frame>
+            <Frame CornerRadius="20"
+                   Margin="10,-140,10,0"
+                   VerticalOptions="CenterAndExpand"
+                   Padding="10"
+                   BackgroundColor="#F1F5F4">
+                <StackLayout>
+                    <Label Text="Senha:" TextColor="#5CC6BA" />
+                    <Entry IsPassword="True" x:Name="txt_senha" Placeholder="Senha" />
+                </StackLayout>
+            </Frame>
+            <Frame CornerRadius="10"
+                   Margin="120,-90,120,110"
+                   VerticalOptions="CenterAndExpand"
+                   Padding="10"
+                   BackgroundColor="White">
+                <StackLayout>
+                    <Button Text="Entrar" BackgroundColor="White" Clicked="Button_Clicked_Entrar" TextColor="#5CC6BA" />
+                </StackLayout>
+            </Frame>
+
+            <Label Text="Criar conta" FontSize="Small"  Margin="10,-150,10,75"
+                           HorizontalTextAlignment="Center" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
